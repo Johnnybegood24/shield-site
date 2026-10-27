@@ -71,4 +71,18 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://shield.datapath.cc/contacts.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://shield.datapath.cc/en/contacts.html"/>
   </url>
+  <url>
+    <loc>https://shield.datapath.cc/article-ios-happ.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://shield.datapath.cc/article-ios-happ.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shield.datapath.cc/en/article-ios-happ.html"/>
+  </url>
+  <url>
+    <loc>https://shield.datapath.cc/en/article-ios-happ.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://shield.datapath.cc/article-ios-happ.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shield.datapath.cc/en/article-ios-happ.html"/>
+  </url>
 </urlset>
